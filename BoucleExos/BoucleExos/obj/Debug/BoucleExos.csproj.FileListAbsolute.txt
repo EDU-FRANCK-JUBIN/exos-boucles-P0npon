@@ -1,0 +1,7 @@
+C:\Users\maxim\source\repos\BoucleExos\BoucleExos\bin\Debug\BoucleExos.exe.config
+C:\Users\maxim\source\repos\BoucleExos\BoucleExos\bin\Debug\BoucleExos.exe
+C:\Users\maxim\source\repos\BoucleExos\BoucleExos\bin\Debug\BoucleExos.pdb
+C:\Users\maxim\source\repos\BoucleExos\BoucleExos\obj\Debug\BoucleExos.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\BoucleExos\BoucleExos\obj\Debug\BoucleExos.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\BoucleExos\BoucleExos\obj\Debug\BoucleExos.exe
+C:\Users\maxim\source\repos\BoucleExos\BoucleExos\obj\Debug\BoucleExos.pdb
